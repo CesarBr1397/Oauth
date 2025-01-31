@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mario.briseno\\Desktop\\Oauth\\oauth\\Oauth.csproj": {}
+    "C:\\Users\\mario.briseno\\Desktop\\Oauth\\CODIGO\\Oauth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mario.briseno\\Desktop\\Oauth\\oauth\\Oauth.csproj": {
+    "C:\\Users\\mario.briseno\\Desktop\\Oauth\\CODIGO\\Oauth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mario.briseno\\Desktop\\Oauth\\oauth\\Oauth.csproj",
+        "projectUniqueName": "C:\\Users\\mario.briseno\\Desktop\\Oauth\\CODIGO\\Oauth.csproj",
         "projectName": "Oauth",
-        "projectPath": "C:\\Users\\mario.briseno\\Desktop\\Oauth\\oauth\\Oauth.csproj",
+        "projectPath": "C:\\Users\\mario.briseno\\Desktop\\Oauth\\CODIGO\\Oauth.csproj",
         "packagesPath": "C:\\Users\\mario.briseno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mario.briseno\\Desktop\\Oauth\\oauth\\obj\\",
+        "outputPath": "C:\\Users\\mario.briseno\\Desktop\\Oauth\\CODIGO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
